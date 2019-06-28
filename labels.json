@@ -291,62 +291,62 @@
     },
     {
         "name": "resolution",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-open",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-duplicate",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-fixed",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-later",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-not a bug",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-out of date",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-postponed",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-rejected",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-remind",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-wont fix",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     },
     {
         "name": "resolution-works for me",
-        "color": "ee0701",
+        "color": "cee069",
         "description": ""
     }
 ]
