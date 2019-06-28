@@ -175,22 +175,97 @@
         "description": ""
     },
     {
-        "name": "PLACEHOLDER TODO FROM HERE",
+        "name": "version",
         "color": "7CBB00",
         "description": ""
     },
     {
-        "name": "question",
-        "color": "cc317c",
-        "description": "support and general questions"
-    },
-    {
-        "name": "security",
-        "color": "ee0701",
+        "name": "version-3.4",
+        "color": "7CBB00",
         "description": ""
     },
     {
-        "name": "design",
+        "name": "version-3.5",
+        "color": "7CBB00",
+        "description": ""
+    },
+    {
+        "name": "version-3.6",
+        "color": "7CBB00",
+        "description": ""
+    },
+    {
+        "name": "version-3.7",
+        "color": "7CBB00",
+        "description": ""
+    },
+    {
+        "name": "priority",
+        "color": "cc317c",
+        "description": "uncategorized"
+    },
+    {
+        "name": "priority-low",
+        "color": "cc317c",
+        "description": ""
+    },
+    {
+        "name": "priority-normal",
+        "color": "cc317c",
+        "description": ""
+    },
+    {
+        "name": "priority-high",
+        "color": "cc317c",
+        "description": ""
+    },
+    {
+        "name": "priority-critical",
+        "color": "cc317c",
+        "description": ""
+    },
+    {
+        "name": "priority-deferred blocker",
+        "color": "cc317c",
+        "description": ""
+    },
+    {
+        "name": "priority-release blocker",
+        "color": "cc317c",
+        "description": ""
+    },
+    {
+        "name": "info",
+        "color": "ff66cc",
+        "description": ""
+    },
+    {
+        "name": "info-buildbot",
+        "color": "ff66cc",
+        "description": ""
+    },
+    {
+        "name": "info-easy",
+        "color": "ff66cc",
+        "description": ""
+    },
+    {
+        "name": "info-gsoc",
+        "color": "ff66cc",
+        "description": ""
+    },
+    {
+        "name": "info-needs review",
+        "color": "ff66cc",
+        "description": ""
+    },
+    {
+        "name": "info-patch",
+        "color": "ff66cc",
+        "description": ""
+    },
+    {
+        "name": "info-3.3regression",
         "color": "ff66cc",
         "description": ""
     },
