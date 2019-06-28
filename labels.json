@@ -270,483 +270,83 @@
         "description": ""
     },
     {
-        "name": "jupyter spec",
+        "name": "status",
+        "color": "ff7619",
+        "description": "uncategorized"
+    },
+    {
+        "name": "status-open",
         "color": "ff7619",
         "description": ""
     },
     {
-        "name": "courage",
-        "color": "eeeeee",
+        "name": "status-pending",
+        "color": "ff7619",
         "description": ""
     },
     {
-        "name": "new-contributor-friendly",
-        "color": "7CBB00",
+        "name": "status-closed",
+        "color": "ff7619",
         "description": ""
     },
     {
-        "name": "feature: ui/ux",
-        "color": "d4c5f9",
-        "description": ""
-    },
-    {
-        "name": "bug: ui/ux",
+        "name": "resolution",
         "color": "ee0701",
         "description": ""
     },
     {
-        "name": "feature: reducers",
-        "color": "d4c5f9",
-        "description": ""
-    },
-    {
-        "name": "feature: epics",
-        "color": "d4c5f9",
-        "description": ""
-    },
-    {
-        "name": "docs",
-        "color": "7CBB00",
-        "description": "Documentation: Users and contributors"
-    },
-    {
-        "name": "hacktoberfest",
-        "color": "7CBB00",
-        "description": ""
-    },
-    {
-        "name": "feature: plugins",
-        "color": "d4c5f9",
-        "description": null
-    },
-    {
-        "name": "pkg:editor",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "RxJS",
-        "color": "009999",
-        "description": ""
-    },
-    {
-        "name": "kernels",
-        "color": "ff7619",
-        "description": ""
-    },
-    {
-        "name": "message-spec",
-        "color": "ff7619",
-        "description": ""
-    },
-    {
-        "name": "bug: components",
+        "name": "resolution-open",
         "color": "ee0701",
         "description": ""
     },
     {
-        "name": "feature: components",
-        "color": "d4c5f9",
-        "description": ""
-    },
-    {
-        "name": "nbformat",
-        "color": "ff7619",
-        "description": ""
-    },
-    {
-        "name": "tests",
-        "color": "009999",
-        "description": ""
-    },
-    {
-        "name": "native-functionality",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "error reporting",
-        "color": "ee0701",
-        "description": "bug: error seen or not being reported"
-    },
-    {
-        "name": "chores",
-        "color": "99FF00",
-        "description": ""
-    },
-    {
-        "name": "mentoring-available",
-        "color": "7CBB00",
-        "description": ""
-    },
-    {
-        "name": "refactor",
-        "color": "FFCC00",
-        "description": "workflow: refactor code"
-    },
-    {
-        "name": "outputs",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "windows",
-        "color": "5319e7",
-        "description": ""
-    },
-    {
-        "name": "macOS",
-        "color": "5319e7",
-        "description": ""
-    },
-    {
-        "name": "Linux",
-        "color": "5319e7",
-        "description": ""
-    },
-    {
-        "name": "release-blocker",
+        "name": "resolution-duplicate",
         "color": "ee0701",
         "description": ""
     },
     {
-        "name": "\\LaTeX",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "environments",
-        "color": "ff7619",
-        "description": "conda, virtual environments"
-    },
-    {
-        "name": "create-config-option",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "jupyter-widgets",
-        "color": "ff7619",
-        "description": ""
-    },
-    {
-        "name": "markdown",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "Error UI/UX",
+        "name": "resolution-fixed",
         "color": "ee0701",
-        "description": "bug: error in UI/UX behavior"
-    },
-    {
-        "name": "kernel-detection",
-        "color": "ff7619",
         "description": ""
     },
     {
-        "name": "publishing",
-        "color": "f0e6ff",
+        "name": "resolution-later",
+        "color": "ee0701",
         "description": ""
     },
     {
-        "name": "GPU",
-        "color": "f0e6ff",
+        "name": "resolution-not a bug",
+        "color": "ee0701",
         "description": ""
     },
     {
-        "name": "keybindings",
-        "color": "f0e6ff",
+        "name": "resolution-out of date",
+        "color": "ee0701",
         "description": ""
     },
     {
-        "name": "refine: ux",
-        "color": "f0e6ff",
+        "name": "resolution-postponed",
+        "color": "ee0701",
         "description": ""
     },
     {
-        "name": "app:play",
-        "color": "8C489F",
+        "name": "resolution-rejected",
+        "color": "ee0701",
         "description": ""
     },
     {
-        "name": "app:commuter",
-        "color": "8C489F",
+        "name": "resolution-remind",
+        "color": "ee0701",
         "description": ""
     },
     {
-        "name": "app:desktop",
-        "color": "8C489F",
+        "name": "resolution-wont fix",
+        "color": "ee0701",
         "description": ""
     },
     {
-        "name": "pkg:commutable",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:ansi-to-react",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:core",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:display-area",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:dropdown-menu",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:enchannel-zmq-backend",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:fs-observable",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:messaging",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:notebook-preview",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:octicons",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:rx-binder",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:rx-jupyter",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:timeago",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transform-dataresource",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transform-geojson",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transform-model-debug",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transform-plotly",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transform-vdom",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transform-vega",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transforms-full",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:transforms",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "pkg:types",
-        "color": "c5def5",
-        "description": null
-    },
-    {
-        "name": "app:showcase",
-        "color": "8C489F",
+        "name": "resolution-works for me",
+        "color": "ee0701",
         "description": ""
-    },
-    {
-        "name": "app:notebook-on-next",
-        "color": "8C489F",
-        "description": ""
-    },
-    {
-        "name": "build",
-        "color": "009999",
-        "description": "build system"
-    },
-    {
-        "name": "app:jupyter-extension",
-        "color": "8C489F",
-        "description": ""
-    },
-    {
-        "name": "tasty",
-        "color": "eeeeee",
-        "description": ""
-    },
-    {
-        "name": "workflow: apply-after-release",
-        "color": "FFCC00",
-        "description": ""
-    },
-    {
-        "name": "maintenance",
-        "color": "FFCC00",
-        "description": "workflow: maintenance"
-    },
-    {
-        "name": "pinned",
-        "color": "FFCC00",
-        "description": "workflow: leave issue or pr open (do not close)"
-    },
-    {
-        "name": "stale",
-        "color": "FFCC00",
-        "description": "workflow: stale issue"
-    },
-    {
-        "name": "kernel-lifecycle",
-        "color": "ff7619",
-        "description": ""
-    },
-    {
-        "name": "notebook-navigation",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "nteract-cli",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "saving",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "performance",
-        "color": "009999",
-        "description": ""
-    },
-    {
-        "name": "stdin",
-        "color": "f0e6ff",
-        "description": ""
-    },
-    {
-        "name": "outdated",
-        "color": "FFCC00",
-        "description": "workflow: issue should stay closed"
-    },
-    {
-        "name": "data-explorer",
-        "color": "0d0f7a",
-        "description": "For issues related to the data explorer output"
-    },
-    {
-        "name": "todo :spiral_notepad:",
-        "color": "FFCC00",
-        "description": "workflow: issues from todo bot"
-    },
-    {
-        "name": "triage",
-        "color": "FFCC00",
-        "description": "workflow: review and label issue"
-    },
-    {
-        "name": "global-sprint",
-        "color": "7CBB00",
-        "description": ""
-    },
-    {
-        "name": "pkg:outputs",
-        "color": "c5def5",
-        "description": ""
-    },
-    {
-        "name": "contributor experience",
-        "color": "7CBB00",
-        "description": ""
-    },
-    {
-        "name": "rebase",
-        "color": "FFCC00",
-        "description": "PR: rebase needed"
-    },
-    {
-        "name": "typescript-migration",
-        "color": "efff49",
-        "description": ""
-    },
-    {
-        "name": "workflow: reproduce",
-        "color": "FFCC00",
-        "description": "Issue needs to be reproduced to troubleshoot"
-    },
-    {
-        "name": "pkg:actions",
-        "color": "c5def5",
-        "description": ""
-    },
-    {
-        "name": "pkg:selectors",
-        "color": "c5def5",
-        "description": ""
-    },
-    {
-        "name": "pkg:directory-listing",
-        "color": "c5def5",
-        "description": ""
-    },
-    {
-        "name": "workflow: define next action",
-        "color": "FFCC00",
-        "description": "A next action is needs definition for work to progress."
-    },
-    {
-        "name": "workflow: needs decision",
-        "color": "FFCC00",
-        "description": "A decision is needed to move forward"
-    },
-    {
-        "name": "workflow: needs user info",
-        "color": "FFCC00",
-        "description": "Additional info is needed from issue filer"
-    },
-    {
-        "name": "workflow: triage completed",
-        "color": "FFCC00",
-        "description": "Triage completed on TODO bot issues"
     }
 ]
